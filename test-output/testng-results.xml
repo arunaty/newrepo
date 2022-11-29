@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-26T22:12:23 IST" name="Default suite" finished-at="2022-11-26T22:12:33 IST" duration-ms="9831">
+    <groups>
+    </groups>
+    <test started-at="2022-11-26T22:12:23 IST" name="Default test" finished-at="2022-11-26T22:12:33 IST" duration-ms="9831">
+      <class name="LoginTest.mBhaitestClass">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:LoginTest.mBhaitestClass@28eaa59a]" started-at="2022-11-26T22:12:23 IST" name="openBrowser" finished-at="2022-11-26T22:12:28 IST" duration-ms="5251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="login2App()[pri:0, instance:LoginTest.mBhaitestClass@28eaa59a]" started-at="2022-11-26T22:12:28 IST" name="login2App" finished-at="2022-11-26T22:12:33 IST" duration-ms="4519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login2App -->
+      </class> <!-- LoginTest.mBhaitestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
